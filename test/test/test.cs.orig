@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace test
+{
+    class test
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD:test/test/test.cs
+            Console.WriteLine("test ABCF");
+=======
+            Console.WriteLine("test ABCD");
+>>>>>>> 3ddcd24b26d54a80dd441e54e4c1cbb2bc12a49e:test/test/Program.cs
+        }
+    }
+}

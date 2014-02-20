@@ -2,11 +2,11 @@
 
 namespace test
 {
-    class test
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test ABCF");
+            Console.WriteLine("test ABCD");
         }
     }
 }
